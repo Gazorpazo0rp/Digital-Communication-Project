@@ -9,8 +9,7 @@ This README text shows the simulation of different modulation schemes, BPSK, QPS
 <h4>BPSK is basically a Double Side Band Suppressed Carrier (DSBSC) modulation scheme, for message being the digital information.</h4>
 
 <h3>-- Block Diagram </h3>
-<img scr="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/BPSk/BPSK.png" width=400>
-
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/BPSk/BPSK.png" width=400>
 <h3> The modulator, before adding noise: </h3>
 
 <img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/BPSk/BeforNoise.PNG" width=400>
@@ -23,7 +22,7 @@ This README text shows the simulation of different modulation schemes, BPSK, QPS
 
 
 <h3> The BER diagram:</h3>
-
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/BPSk/ErrorCurveBPSK.PNG" width=400>
 <hr><hr>
   
 * <h2> QPSK - Quadrature Phase Shift Keying:</h2>
@@ -41,7 +40,7 @@ This README text shows the simulation of different modulation schemes, BPSK, QPS
 <img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/QPSK/AfterNoise.PNG" width=400>
 
 <h3> The BER diagram:</h3>
-
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/QPSK/ErrorCurveQPSK.PNG" width=400>
 <hr><hr>
 
 * <h2> FSK - Frequency-shift keying:</h2>
@@ -49,7 +48,7 @@ This README text shows the simulation of different modulation schemes, BPSK, QPS
 
 <h3>-- Block Diagram </h3>
 
-<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/FSK/FSK.png" width=400">
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/FSK/FSK.png" width=400>
 <h3> The modulator, before adding noise: </h3>
 <img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/FSK/BeforeNoise.PNG" width=400>
 
@@ -59,7 +58,7 @@ This README text shows the simulation of different modulation schemes, BPSK, QPS
 
 
 <h3> The BER diagram:</h3>
-
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/FSK/ErrorCurveFSK.PNG" width=400">
 <hr><hr>
 
 * <h2> QAM - Quadrature amplitude modulation:</h2>
@@ -67,17 +66,17 @@ This README text shows the simulation of different modulation schemes, BPSK, QPS
 
 <h3>-- Block Diagram </h3>
 
-
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/QAM16/QAM16.png" width=400>
 <h3> The modulator, before adding noise: </h3>
 
-
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/QAM16/BeforNoise.PNG" width=400>
 <h3> The demodulator, after adding the noise: </h3>
 
-
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/QAM16/AfterNoise.PNG" width=400>
 
 
 <h3> The BER diagram:</h3>
-
+<img src="https://github.com/Gazorpazo0rp/Digital-Communication-Project/blob/master/QAM16/ErrorCurveQAM16.PNG" width=400>
 <hr><hr>
 
 * <h2> QAM **64** - Quadrature amplitude modulation:</h2>
@@ -85,15 +84,16 @@ This README text shows the simulation of different modulation schemes, BPSK, QPS
 
 <h3>-- Block Diagram </h3>
 
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/QAM64/QAM64.png" width=400>
 
 <h3> The modulator, before adding noise: </h3>
 
-
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/QAM64/BeforNoise.PNG" width=400>
 <h3> The demodulator, after adding the noise: </h3>
 
-
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/QAM64/AfterNoise.PNG" width=400 >
 
 
 <h3> The BER diagram:</h3>
-
+<img src=https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/QAM64/ErrorCurveQAM64.PNG" width=400>
 <hr><hr>
