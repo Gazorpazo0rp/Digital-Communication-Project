@@ -9,16 +9,17 @@ This README text shows the simulation of different modulation schemes, BPSK, QPS
 <h4>BPSK is basically a Double Side Band Suppressed Carrier (DSBSC) modulation scheme, for message being the digital information.</h4>
 
 <h3>-- Block Diagram </h3>
-
+<img scr="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/BPSk/BPSK.png" width=400>
 
 <h3> The modulator, before adding noise: </h3>
 
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/BPSk/BeforNoise.PNG" width=400>
+
+<h3> The demodulator, after adding the noise:  </h3>
+
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/BPSk/AfterNoise.PNG" width=400 >
 
 
-<h3> The demodulator, after adding noise =-10db: </h3>
-
-
-<h3> The demodulator, after adding noise =10db: </h3>
 
 
 <h3> The BER diagram:</h3>
@@ -30,15 +31,14 @@ This README text shows the simulation of different modulation schemes, BPSK, QPS
 
 <h3>-- Block Diagram </h3>
 
-
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/QPSK/QPSK.png" width=400>
 <h3> The modulator, before adding noise: </h3>
 
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/QPSK/BeforeNoise.PNG" width=400>
 
-<h3> The demodulator, after adding noise =-10db: </h3>
+<h3> The demodulator, after adding the noise: </h3>
 
-
-<h3> The demodulator, after adding noise =10db: </h3>
-
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/QPSK/AfterNoise.PNG" width=400>
 
 <h3> The BER diagram:</h3>
 
@@ -49,14 +49,13 @@ This README text shows the simulation of different modulation schemes, BPSK, QPS
 
 <h3>-- Block Diagram </h3>
 
-
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/FSK/FSK.png" width=400">
 <h3> The modulator, before adding noise: </h3>
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/FSK/BeforeNoise.PNG" width=400>
 
+<h3> The demodulator, after adding the noise: </h3>
 
-<h3> The demodulator, after adding noise =-10db: </h3>
-
-
-<h3> The demodulator, after adding noise =10db: </h3>
+<img src="https://raw.githubusercontent.com/Gazorpazo0rp/Digital-Communication-Project/master/FSK/AfterNoise.PNG" width=400>
 
 
 <h3> The BER diagram:</h3>
@@ -72,10 +71,9 @@ This README text shows the simulation of different modulation schemes, BPSK, QPS
 <h3> The modulator, before adding noise: </h3>
 
 
-<h3> The demodulator, after adding noise =-10db: </h3>
+<h3> The demodulator, after adding the noise: </h3>
 
 
-<h3> The demodulator, after adding noise =10db: </h3>
 
 
 <h3> The BER diagram:</h3>
@@ -91,10 +89,9 @@ This README text shows the simulation of different modulation schemes, BPSK, QPS
 <h3> The modulator, before adding noise: </h3>
 
 
-<h3> The demodulator, after adding noise =-10db: </h3>
+<h3> The demodulator, after adding the noise: </h3>
 
 
-<h3> The demodulator, after adding noise =10db: </h3>
 
 
 <h3> The BER diagram:</h3>
